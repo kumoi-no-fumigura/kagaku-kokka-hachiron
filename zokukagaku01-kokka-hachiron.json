@@ -1,10 +1,15 @@
 {
- "work": "国歌八論",
+ "work": "国歌八論（続日本歌学全書本）",
  "work_id": "zokukagaku01-kokka-hachiron",
  "repo": "kumoi-no-fumigura/kagaku-kokka-hachiron",
  "yomi": "こっかはちろん",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "歌論書",
+  "era": "寛保2年（1742）",
+  "author": "荷田在満（1706〜1751）",
+  "desc": "田安宗武の求めで書かれた歌論。歌の本質や効用を八つの論に分けて述べ、宗武・賀茂真淵らを巻き込む国歌八論論争の発端となった。ここには本居宣長の評を付す。"
+ },
  "editions": [
   {
    "pid": "993379",
